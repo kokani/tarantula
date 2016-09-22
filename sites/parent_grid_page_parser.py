@@ -2,8 +2,5 @@
 
 class ParentGridPageParser:
 
-	def getClinicUrl(self, clinicTag):
-
-
-	def handleGriPageException(self, clinicTag, siteName):
-
+    def __init__(self):
+        pass
