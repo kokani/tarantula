@@ -1,2 +1,0 @@
-# tarantula
-Read clinic information

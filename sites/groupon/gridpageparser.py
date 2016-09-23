@@ -1,3 +1,5 @@
+# coding=utf-8
+# © Amit Sawant, Sept 2016
 
 import sys
 import traceback
@@ -7,6 +9,7 @@ from bs4 import BeautifulSoup
 from tarantula.sites.parent_grid_page_parser import ParentGridPageParser
 from tarantula.clinic_bo import ClinicBO
 
+#Parses the grid page which has all dental clinics
 class GridPageParser(ParentGridPageParser):
 
     def parse(self, pageHtml):

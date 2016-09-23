@@ -1,0 +1,828 @@
+1. Name: Nusblatt Dental
+Tel: 12124732164
+Address: [u'Greenwich Village', u'60 E 9th St', u'Apt 206', u'New York, NY 10003']
+Url: https://www.groupon.com/deals/nusblatt-dental
+1. Name: New York Cosmetic Dental
+Tel: 12124758688
+Address: [u'New York', u'55 East 9th Street', u'Suite 1F', u'New York, NY 10003']
+Url: https://www.groupon.com/deals/new-york-cosmetic-dental-1
+1. Name: Dr. John Hunter DDS
+Tel: 17185951400
+Address: [u'Rego Park - Queens', u'62-54 97th Place', u'Suite 2C', u'Rego Park, NY 11374']
+Url: https://www.groupon.com/deals/dr-john-hunter-dental
+1. Name: I Smile Dental
+Tel: 17184263000
+Address: [u'Jackson Heights', u'84-18 37th Avenue', u'Jackson Heights, NY 11372']
+Url: https://www.groupon.com/deals/i-smile-dental-1
+1. Name: Nuance Dental Studio
+Tel: 12127582185
+Address: [u'Nuance Dental Studio', u'30 E 60th St.', u'#603', u'New York, NY 10022']
+Url: https://www.groupon.com/deals/dr-steven-s-lee-dds
+1. Name: Jeffrey Leibowitz, DDS
+Tel: 17187288320
+Address: [u'Astoria', u'35-04 31st Ave.', u'Astoria, NY 11106']
+Url: https://www.groupon.com/deals/jeffrey-leibowitz-dds-1
+1. Name: Paola Lomba Dds
+Tel: 17183971100
+Address: [u'Jackson Heights', u'3261 85th St', u'East Elmhurst, NY 11370']
+Url: https://www.groupon.com/deals/paola-lomba-dds
+1. Name: Flushing Dental
+Tel: 17184609440
+Address: [u'Murray Hill', u'35-35 149th St', u'Flushing, NY 11354']
+Url: https://www.groupon.com/deals/prime-smiles-dental-p-c
+1. Name: Ocean Avenue Family Dental
+Tel: 17183398400
+Address: [u'Ocean Ave Family Dental PC', u'2001 Avenue P', u'Ocean Avenue Entrance', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/ocean-avenue-family-dental-1
+1. Name: Clifton Dental Group
+Tel: 19737776363
+Address: [u'Dutch Hill', u'529 Clifton Ave.', u'Clifton, NJ 07011']
+Url: https://www.groupon.com/deals/clifton-dental-group-4
+1. Name: Alfred J Lanfranchi, DDS Cosmetic & Restorative Dentistry
+Tel: 17187457171
+Address: [u'Bay Ridge & Fort Hamilton', u'479 Bay Ridge Pkwy', u'Brooklyn, NY 11209']
+Url: https://www.groupon.com/deals/alfred-j-lanfranchi-dds-cosmetic-restorative-dentistry
+1. Name: CNB Dental
+Tel: None
+Address: [u'Lawrence Park', u'44 Pondfield Road', u'Bronxville, NY 10708']
+Url: https://www.groupon.com/deals/cnb-dental
+1. Name: Maurice Shrem DDS
+Tel: 17183756402
+Address: [u'Midwood', u'1720 East 13th Street', u'Ste 1', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/maurice-shrem-dds-1
+1. Name: White Smile Central
+Tel: None
+Address: [u'Midtown Center', u'415 Madison Avenue, 15th Floor', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/white-smile-central-63
+1. Name: Perfect Smile Dental Arts PC
+Tel: 15163604256
+Address: [u'Lynbrook', u'185 Merrick Road', u'suite 2C', u'Lynbrook, NY 11563']
+Url: https://www.groupon.com/deals/perfect-smile-dental-arts-pc
+1. Name: WestSide Gentle Dental
+Tel: None
+Address: [u'WestSide Gentle Dental', u'215 West 90th Street', u'Suite 103', u'New York, NY 10024']
+Url: https://www.groupon.com/deals/westside-gentle-dental-1
+1. Name: Vincent J. Picone, D.D.S.
+Tel: 12018612400
+Address: [u'North Bergen', u'1001 79th St', u'North Bergen, NJ 07047']
+Url: https://www.groupon.com/deals/vincent-j-picone-dds-1
+1. Name: Lee D. Smulen DMD
+Tel: 19733747100
+Address: [u'Irvington', u'964 Sanford Ave.', u'Irvington, NJ 07111']
+Url: https://www.groupon.com/deals/lee-d-smulen-dmd
+1. Name: Metropolitan Dental Associates
+Tel: 12012240310
+Address: [u'Fort Lee', u'799 Abbott Blvd', u'Fort Lee, NJ 07024']
+Url: https://www.groupon.com/deals/metropolitan-dental-associates
+1. Name: Island Dental Associates
+Tel: 15165656565
+Address: [u'Franklin Square', u'639 Hempstead Turnpike', u'Franklin Square, NY 11010']
+Url: https://www.groupon.com/deals/island-dental-associates-1
+1. Name: Martina M. Reynolds, DDS
+Tel: 12127535471
+Address: [u'Midtown Center', u'57 W 57th St.', u'Suite 806', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/martina-m-reynolds-dds
+1. Name: Central Park Dental Spa
+Tel: 12127531119
+Address: [u'Midtown Center', u'30 Central Park S', u'#7A', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/central-park-dental-spa-1
+1. Name: AP&P Dental
+Tel: 12016527711
+Address: [u'Ho-Ho-Kus', u'119 1st Street', u'Ho Ho Kus, NJ 07423']
+Url: https://www.groupon.com/deals/ap-p-dental
+1. Name: METROPOLITAN DENTAL ASSOCIATES
+Tel: 12012240310
+Address: [u'Fort Lee', u'799 Abbott Blvd', u'Fort Lee, NJ 07024']
+Url: https://www.groupon.com/deals/metropolitan-dental-associates-3
+1. Name: Paolo Saggese, DMD, PLLC
+Tel: 12129627565
+Address: [u'New York', u'325 Broadway Lobby Suite', u'New York, NY 10007']
+Url: https://www.groupon.com/deals/paolo-saggese-dmd-pllc
+1. Name: Staten Island Dental Group
+Tel: 17186981885
+Address: [u'Emerson Hill', u'979 Willowbrook Road', u'Staten Island, NY 10314']
+Url: https://www.groupon.com/deals/staten-island-dental-group
+1. Name: Willoughby Dental
+Tel: 17182377888
+Address: [u'Downtown Brooklyn', u'135 Lawrence Street', u'Brooklyn, NY 11201']
+Url: https://www.groupon.com/deals/willoughby-dental-new-york
+1. Name: Madison Avenue Dental Arts
+Tel: 12018455533
+Address: [u'Paramus', u'27 Madison Ave.', u'Suite 110', u'Paramus, NJ 07761']
+Url: https://www.groupon.com/deals/madison-avenue-dental-arts-1
+1. Name: EnvySmile Dental Spa
+Tel: 17188910606
+Address: [u'Kings Highway', u'1738 East 13th Street', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/envy-smile-dental-spa-4
+1. Name: Putnam Bright Smile Dentistry, P.C
+Tel: 18452797177
+Address: [u'Brewster', u'2410 US Highway 6', u'Brewster, NY 10509']
+Url: https://www.groupon.com/deals/putnam-bright-smile-dentistry-p-c
+1. Name: Magic Smile
+Tel: 16463603450
+Address: [u'Magic Smile', u'315 5th ave', u'suite 703A', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/magic-smile-7
+1. Name: Ming Hair Salon
+Tel: 17324211627
+Address: [u'East Brunswick', u'275 State Rt. 18', u'East Brunswick, NJ 08816']
+Url: https://www.groupon.com/deals/ming-hair-salon-1
+1. Name: Smiles NYC
+Tel: 12129723522
+Address: [u'Smiles NYC - Store Front', u'30 East 40th Street', u'30 East 40th Street', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/dr-jacquie-smiles-2
+1. Name: Dr. Diana Moriatis
+Tel: 12012270430
+Address: [u'Tenafly', u'265 West Clinton Avenue', u'Tenafly, NJ 07670']
+Url: https://www.groupon.com/deals/dr-diana-moriatis
+1. Name: Central Park Oral Surgery
+Tel: 12128130707
+Address: [u'Manhattan', u'515 Madison Ave.', u'28th Fl.', u'New York, NY 10022']
+Url: https://www.groupon.com/deals/central-park-oral-surgery
+1. Name: New Jersey Dental Centers- Saddle Brook
+Tel: 19734781616
+Address: [u'Saddle Brook', u'220 North 5th Street', u'Saddle Brook, NJ 07663']
+Url: https://www.groupon.com/deals/new-jersey-dental-centers-saddle-brook
+1. Name: Dr. Geffen
+Tel: 17182249766
+Address: [u'Bayside', u'15-57 Bell Blvd.', u'Bayside, NY 11360']
+Url: https://www.groupon.com/deals/dr-geffen
+1. Name: Quantum Dental Group
+Tel: 12012540322
+Address: [u'Harmon Meadows', u'421 59th Street', u'West New York, NJ 07093']
+Url: https://www.groupon.com/deals/quantum-dental-group
+1. Name: New York Dental Office, PC
+Tel: 12128898870
+Address: [u'Midtown South Central', u'274 Madison Avenue', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/new-york-dental-office-pc-1-1
+1. Name: Palisades Dental Care
+Tel: 12015689811
+Address: [u'Cresskill', u'135 County Rd.', u'#2', u'Cresskill, NJ 07626']
+Url: https://www.groupon.com/deals/palisades-dental-care-2
+1. Name: Bridge Family Dental
+Tel: 17188331847
+Address: [u'Dr. Violetta Thierbach', u'8116 Third Avenue', u'Brooklyn, NY 11209']
+Url: https://www.groupon.com/deals/bridge-family-dental-1-4
+1. Name: Cambria Family Dental
+Tel: 17185289618
+Address: [u'Cambria Heights', u'228-02 Linden Boulevard', u'Cambria Heights, NY 11411']
+Url: https://www.groupon.com/deals/cambria-family-dental
+1. Name: Dental Associates of Lodi
+Tel: 18622478030
+Address: [u'Lodi', u'147 Main St', u'Ste 7', u'Lodi, NJ 07644']
+Url: https://www.groupon.com/deals/dental-associates-of-lodi-1
+1. Name: A&b Scarsdale Dental
+Tel: 19148745757
+Address: [u'Eastchester', u'130 Garth Road', u'Scarsdale, NY 10583']
+Url: https://www.groupon.com/deals/a-b-scarsdale-dental
+1. Name: Noah Dental Group
+Tel: 12128882764
+Address: [u'Noah Dental Group', u'919 2nd Avenue', u'2nd Floor', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/noah-dental-group-2
+1. Name: Austin Dental Plus
+Tel: None
+Address: [u'Austin Dental Plus', u'110-74 Queens Boulevard', u'Forest Hills, NY 11375']
+Url: https://www.groupon.com/deals/austin-dental-plus
+1. Name: Dental Professionals of Fair Lawn
+Tel: 12017971555
+Address: [u'Dental Professionals of Fair Lawn', u'10-06 Saddle River Road', u'Fair Lawn, NJ 07410']
+Url: https://www.groupon.com/deals/dental-professionals-of-fair-lawn-5
+1. Name: Grand Dental Care Pc
+Tel: 15163781968
+Address: [u'Baldwin', u'2000 Grand Avenue', u'Baldwin, NY 11510']
+Url: https://www.groupon.com/deals/grand-dental-care-pc
+1. Name: A P S Dental Center
+Tel: None
+Address: [u'Hazlet Office', u'1 Bethany Road', u'Suite # 18', u'Hazlet, NJ 07730']
+Url: https://www.groupon.com/deals/a-p-s-dental-center
+1. Name: Euro Laser Spa Services
+Tel: 19149213265
+Address: [u'Byram', u'20 Purdy Avenue', u'Ste 1', u'Rye, NY 10580']
+Url: https://www.groupon.com/deals/euro-laser-services-1-3
+1. Name: Zen Dentistry
+Tel: 12122459400
+Address: [u'Zen Dentistry', u'405 Lexington Avenue', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/zen-dentistry-4
+1. Name: Creating Smiles Family Dental
+Tel: 19733381100
+Address: [u'Brookdale', u'1025 Broad Street', u'Bloomfield, NJ 07003']
+Url: https://www.groupon.com/deals/creating-smiles-family-dental-1
+1. Name: Revitta Cosmetic Dentistry
+Tel: 12125351202
+Address: [u'OrthoSnap New York', u'133 West End Avenue', u'New York, NY 11235']
+Url: https://www.groupon.com/deals/revitta-smile-1-1
+1. Name: Smile More Dentistry
+Tel: 18453591763
+Address: [u'Smile More Dentistry', u'140 Oak Tree Rd', u'Tappan, NY 10983']
+Url: https://www.groupon.com/deals/smile-more-dentistry-washington-dental-assoc
+1. Name: Dr. Plishtin and Haas
+Tel: 19737314772
+Address: [u'West Orange', u'502 Pleasant Valley Way', u'West Orange, NJ 07052']
+Url: https://www.groupon.com/deals/dr-s-plishtin-and-haas
+1. Name: BB's Pearly Whites, LLC
+Tel: 19176203504
+Address: [u"BB's Pearly Whites, LLC", u'145 Front Street', u'Brooklyn, NY 11201']
+Url: https://www.groupon.com/deals/bb-s-pearly-whites-llc
+1. Name: The Smile Clinic
+Tel: None
+Address: [u'Midtown Center', u'415 Madison Avenue', u'Floor #15', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/the-smile-clinic-46
+1. Name: Whitestone Periodontics & Dental Implants
+Tel: 17184234500
+Address: [u'Clearview', u'160-32 20th Ave', u'Whitestone, NY 11357']
+Url: https://www.groupon.com/deals/whitestone-periodontics-dental-implants
+1. Name: My Smiles Orthodontics
+Tel: 17183801230
+Address: [u'East Flushing', u'75-05 Parsons Boulevard', u'Flushing, NY 11366']
+Url: https://www.groupon.com/deals/my-smiles-orthodontics
+1. Name: Dentists on Madison
+Tel: 12125322000
+Address: [u'Midtown South Central', u'175 Madison Avenue', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/dentists-on-madison
+1. Name: Neal Vallins DDS
+Tel: 12123716887
+Address: [u'Upper East Side', u'800a 5th Avenue Suite 305', u'New York, NY 10065']
+Url: https://www.groupon.com/deals/neal-vallins-dds-1
+1. Name: Smiles Park Avenue
+Tel: None
+Address: [u'Upper East Side', u'121 East 60th street,', u'Suite #1B', u'New York, NY 10022']
+Url: https://www.groupon.com/deals/smiles-park-avenue-1
+1. Name: KADI Dental
+Tel: None
+Address: [u'Midtown Center', u'20 East 46th Street', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/kadi-dental
+1. Name: Dr. Ahmad Sedehi at Cliffside Park Dental Group
+Tel: 12019418500
+Address: [u'Cliffside Park', u'527 Anderson Ave.', u'Cliffside Park, NJ 07010']
+Url: https://www.groupon.com/deals/cliffside-park-dental-group
+1. Name: Lighten Up NY
+Tel: 16466535869
+Address: [u'Lighten Up NY', u'605 Manhattan Avenue', u'Brooklyn, NY 11222']
+Url: https://www.groupon.com/deals/lighten-up-ny
+1. Name: Chrystal dental care
+Tel: 19735208787
+Address: [u'Chrystal dental care', u'2025 Hamburg Turnpike', u'Wayne, NJ 07470']
+Url: https://www.groupon.com/deals/chrystal-dental-care
+1. Name: Brighte Station
+Tel: 19295008601
+Address: [u'Brighte Station', u'97-11 219 Street', u'Suite A', u'Queens Village, NY 11429']
+Url: https://www.groupon.com/deals/brighte-station-1
+1. Name: Pink Shisha
+Tel: None
+Address: [u'East Bronx', u'1332 Commerce Ave', u'Bronx, NY 10461']
+Url: https://www.groupon.com/deals/pink-shisha-1-1
+1. Name: Park Avenue Dental Group
+Tel: 12018644730
+Address: [u'Park Avenue Dental Group', u'3508 Park Ave', u'Weehawken, NJ 07086']
+Url: https://www.groupon.com/deals/park-avenue-dental-group-3
+1. Name: Northfield Health & Wellness
+Tel: 19737369790
+Address: [u'West Orange', u'348 Northfield Avenue', u'West Orange, NJ 07052']
+Url: https://www.groupon.com/deals/northfield-health-wellness-1
+1. Name: Park Slope Dentistry
+Tel: 17187681111
+Address: [u'Park Slope Dentistry', u'357 7th Avenue.', u'Brooklyn, NY 11215']
+Url: https://www.groupon.com/deals/park-slope-dentistry-4
+1. Name: Flatbush Family Dental
+Tel: 17183773334
+Address: [u'Flatlands', u'2017 Flatbush Avenue', u'Brooklyn, NY 11234']
+Url: https://www.groupon.com/deals/lenik-dental-pc-7
+1. Name: Personal Touch Dentistry
+Tel: 12127528431
+Address: [u'Midtown Center', u'57 W 57th St.', u'Suite 1414', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/personal-touch-dentistry-1
+1. Name: Avtar S. Tinna, DDS
+Tel: 17182911200
+Address: [u'Jamaica Hills', u'168-33 Hillside Ave', u'Jamaica, NY 11432']
+Url: https://www.groupon.com/deals/avtar-s-tinna-dds
+1. Name: Franklin Dental Center
+Tel: 12013372323
+Address: [u'Oakland', u'43 Yawpo Ave', u'Suite #8', u'Oakland, NJ 07436']
+Url: https://www.groupon.com/deals/franklin-dental-center
+1. Name: Align Dental Care
+Tel: 12013132277
+Address: [u'Ridgefield', u'321 Broad Ave', u'Ste 5', u'Ridgefield, NJ 07657']
+Url: https://www.groupon.com/deals/align-dental-care-1
+1. Name: Elmhurst Dental Group
+Tel: None
+Address: [u'Elmhurst', u'74-33 44th Avenue', u'New York, NY 11373']
+Url: https://www.groupon.com/deals/elmhurst-dental-group
+1. Name: Old Tappan Family Dentistry
+Tel: 12017671441
+Address: [u'Old Tappan', u'1 Dewolf Rd.', u'Suite 102', u'Old Tappan, NJ 07675']
+Url: https://www.groupon.com/deals/old-tappan-family-dentistry-2
+1. Name: Dental Arts by Dr. Slobodski
+Tel: 17182593828
+Address: [u'Bensonhurst', u'2102 Bay Ridge Parkway', u'Brooklyn, NY 11204']
+Url: https://www.groupon.com/deals/dental-arts-by-dr-slobodski
+1. Name: Anderson Dental Associates
+Tel: 12018401600
+Address: [u'Anderson Family Dental', u'620 Anderson Avenue', u'Ste 2', u'Cliffside Park, NJ 07010']
+Url: https://www.groupon.com/deals/anderson-family-dental-practice
+1. Name: Queens Family Dental
+Tel: 17184455610
+Address: [u'Flushing', u'4049 167th St', u'Flushing, NY 11358']
+Url: https://www.groupon.com/deals/queens-family-dental-11
+1. Name: Park Ave. Dental Excelence
+Tel: 12125577711
+Address: [u'New York', u'30 East 40th Street', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/park-ave-dental-excelence
+1. Name: Dr. Ahmad Sedehi at Scarsdale Personal Dental Care
+Tel: 19147231500
+Address: [u'Greenville', u'590 Central Park', u'Scarsdale, NY 10583']
+Url: https://www.groupon.com/deals/dr-ahmad-sedehi-at-scarsdale-personal-dental-care
+1. Name: Dr. Landau & Associates
+Tel: 12019433322
+Address: [u'Cliffside Park', u'537 Anderson Ave.', u'Cliffside Park, NJ 07010']
+Url: https://www.groupon.com/deals/dr-landau-associates
+1. Name: Dr. Maurice Shrem, DDS
+Tel: 17183756402
+Address: [u'Midwood', u'1720 East 13th Street', u'Ste 1', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/maurice-shrem-dds
+1. Name: Mark Schlesinger DDS
+Tel: None
+Address: [u'Mark Schlesinger DDS', u'64 Division Avenue', u'Suite 200', u'Levittown, NY 11756']
+Url: https://www.groupon.com/deals/the-diamond-schlesinger-group
+1. Name: Arthur G Nathan
+Tel: 15163784140
+Address: [u'Freeport', u'294 West Merrick Road', u'Freeport, NY 11520']
+Url: https://www.groupon.com/deals/arthur-g-nathan
+1. Name: Veronica Greene, DDS
+Tel: 12128320004
+Address: [u'Midtown Center', u'30 Central Park South', u'Suite 7A', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/veronica-greene-dental
+1. Name: Polished Teeth Whitening NYC
+Tel: 19178625683
+Address: [u'South Side', u'170 West 1st Street', u'Mount Vernon, NY 10550']
+Url: https://www.groupon.com/deals/polished-teeth-whitening-nyc-1
+1. Name: Batista Family Dental
+Tel: 12012959700
+Address: [u'West New York', u'5700 Bergenline Ave', u'West New York, NJ 07093']
+Url: https://www.groupon.com/deals/batista-family-dental
+1. Name: Contemporary Dental Implant Centre
+Tel: 12122699500
+Address: [u'Midtown South Central', u'295 Madison Avenue', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/contemporary-dental-implant-centre
+1. Name: Leading Edge Oral Care
+Tel: 17186921313
+Address: [u'Midwood', u'974 E 27 St.', u'Brooklyn, NY 11210']
+Url: https://www.groupon.com/deals/leading-edge-oral-care
+1. Name: Dental Group of Westchester
+Tel: 19146835203
+Address: [u'White Plains', u'10 Mitchell Place', u'White Plains, NY 10601']
+Url: https://www.groupon.com/deals/dental-cosmetic-group-of-westchester
+1. Name: Dr Allan Goldfarb
+Tel: 17182322100
+Address: [u'Dyker Heights', u'7713 13th Ave', u'13th', u'Brooklyn, NY 11228']
+Url: https://www.groupon.com/deals/dr-allan-goldfarb
+1. Name: Sky Dental
+Tel: None
+Address: [u'Sky Dental', u'42 Broadway', u'Suite 1501', u'New York, NY 10004']
+Url: https://www.groupon.com/deals/sky-dental
+1. Name: 3V Dental Associates
+Tel: 15169447000
+Address: [u'Port Washington', u'85 Main St', u'Port Washington, NY 11050']
+Url: https://www.groupon.com/deals/3v-dental-associates-1
+1. Name: Dr. Samuel Rudick
+Tel: 12127575749
+Address: [u'Clinton', u'119 W 57th St', u'Suite 1420', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/dr-samuel-rudick
+1. Name: Dorian Cucereanu, DDS
+Tel: None
+Address: [u'Dorian Cucereanu, DDS', u'2120 Broadway', u'Astoria, NY 11106']
+Url: https://www.groupon.com/deals/dorian-cucereanu-dds-1
+1. Name: Access Dental
+Tel: 19086874090
+Address: [u'Union', u'1200 Stuyvesant Ave', u'Ste 2', u'Union, NJ 07083']
+Url: https://www.groupon.com/deals/access-dental
+1. Name: ideal smile dental p.c.
+Tel: 17182052055
+Address: [u'Elmhurst', u'91-23 Queens Boulevard', u'Elmhurst, NY 11373']
+Url: https://www.groupon.com/deals/ideal-smile-dental-p-c-1
+1. Name: Arden Dental Services P.C.
+Tel: 17187691001
+Address: [u'Arden Dental Services P.C.', u'2610 Ocean Parkway', u'Suite L1', u'Brooklyn, NY 11235']
+Url: https://www.groupon.com/deals/arden-smile-dental
+1. Name: 38 Meserole Dental
+Tel: 17185763480
+Address: [u'East Williamsburg', u'38 Meserole Street', u'Brooklyn, NY 11206']
+Url: https://www.groupon.com/deals/38-meserole-dental-1
+1. Name: Aguila Dental Office
+Tel: 15164861895
+Address: [u'Uniondale', u'1003 Front Street', u'Uniondale, NY 11553']
+Url: https://www.groupon.com/deals/aguila-dental-office
+1. Name: Lawrence A. Kurzweil, DDS, PC
+Tel: 17183471348
+Address: [u'Bellerose Floral Park', u'251-4 80th Avenue', u'Bellerose, NY 11426']
+Url: https://www.groupon.com/deals/lawrence-a-kurzweil-dds-pc
+1. Name: Dr. Inna Goykman-Amir DDS. E.C.
+Tel: 17182345858
+Address: [u'East Flatbush', u'Brooklyn, NY 11230']
+Url: https://www.groupon.com/deals/dr-inna-goykman-amir-dds-e-c
+1. Name: Irina Starik DMD
+Tel: 12127347799
+Address: [u'Upper East Side', u'175 East 79th Street', u'Apt 1B', u'New York, NY 10075']
+Url: https://www.groupon.com/deals/irina-starik-dmd
+1. Name: Riverdale Oral Health & Implant Center
+Tel: 17185483353
+Address: [u'West Bronx', u'611 W 239th St.', u'Riverdale, NY 10463']
+Url: https://www.groupon.com/deals/riverdale-oral-health-and-implant-center-2
+1. Name: A to Z Family Dentistry
+Tel: 19738376655
+Address: [u'Little Falls', u'159 E Main St.', u'Little Falls, NJ 07424']
+Url: https://www.groupon.com/deals/a-to-z-family-dentistry-1
+1. Name: Best Dental
+Tel: 17187458500
+Address: [u'Bay Ridge & Fort Hamilton', u'405 92nd Street', u'Brooklyn, NY 11209']
+Url: https://www.groupon.com/deals/best-dental
+1. Name: Vanguard Dental
+Tel: 15167394990
+Address: [u'Mineola', u'200 Old Country Rd', u'Ste 520', u'Mineola, NY 11501']
+Url: https://www.groupon.com/deals/vanguard-dental-1
+1. Name: Vladimir Lempert DMD
+Tel: 17183328598
+Address: [u'Sheepshead Bay', u'3037 Avenue U', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/vladimir-lempert-dmd
+1. Name: C.S.I. Dental
+Tel: 15164822113
+Address: [u'C.S.I. Dental', u'1 Barstow Rd, #P18', u'Great Neck, NY 11021']
+Url: https://www.groupon.com/deals/c-s-i-dental-3
+1. Name: You Should Smile
+Tel: 19737435432
+Address: [u'Bloomfield', u'301 Belleville Ave.', u'Bloomfield, NJ 07003']
+Url: https://www.groupon.com/deals/you-should-smile
+1. Name: Robert V. Massa, D.M.D.
+Tel: 19737616464
+Address: [u'Upper Vailsburg', u'99 Vose Ave', u'South Orange, NJ 07079']
+Url: https://www.groupon.com/deals/robert-v-massa-dmd-2
+1. Name: NY Dental
+Tel: 12128682507
+Address: [u'Midtown', u'350 Fifth Ave.', u'Suite 2618', u'New York, NY 10118']
+Url: https://www.groupon.com/deals/ny-dental-1-1
+1. Name: Champion Dental, P.C.
+Tel: 19142053344
+Address: [u'Greenville', u'340 Ardsley Rd.', u'Suite 3B', u'Scarsdale, NY 10583']
+Url: https://www.groupon.com/deals/champion-dental-p-c
+1. Name: Jay Ritter DDS
+Tel: 17184499009
+Address: [u'Gravesend', u'154 Avenue U', u'Brooklyn, NY 11223']
+Url: https://www.groupon.com/deals/jay-ritter-dds
+1. Name: The Whitening Gals
+Tel: 17189255421
+Address: [u'The Whitening Gals', u'3843B East Tremont Avenue', u'Bronx, NY 10465']
+Url: https://www.groupon.com/deals/the-whitening-gals
+1. Name: John A. Bobinski D.D.S.
+Tel: 19142375482
+Address: [u'Southeast Yonkers', u'801 Bronx River Rd.', u'Bronxville, NY 10708']
+Url: https://www.groupon.com/deals/john-a-bobinski-dds
+1. Name: Staten Island Massage & Wellness
+Tel: 17185561332
+Address: [u'Westerleigh', u'1332 Forest Ave', u'New York, NY 10302']
+Url: https://www.groupon.com/deals/staten-island-massage-wellness
+1. Name: New City Dental Care
+Tel: 12014591800
+Address: [u'The Heights', u'3367 John F Kennedy Blvd Ste 1', u'Jersey City, NJ 07307']
+Url: https://www.groupon.com/deals/new-city-dental-care-1
+1. Name: AP Dental Care, PC
+Tel: 17182632040
+Address: [u'Forest Hills', u'6509 99th Street', u'Rego Park, NY 11374']
+Url: https://www.groupon.com/deals/ap-dental-care-pc
+1. Name: Dr. Bruce Freund
+Tel: 12015680606
+Address: [u'New Jersey', u'700 E Palisade Ave.', u'Englewood Cliffs, NJ 07632']
+Url: https://www.groupon.com/deals/new-jersey-center-aesthetic-enhancement-2
+1. Name: United Dental Group
+Tel: 12014644783
+Address: [u'United Dental Group Hackensack', u'946 Main Street', u'Hackensack, NJ 07601']
+Url: https://www.groupon.com/deals/united-dental-group-3
+1. Name: Richmond Dental Care
+Tel: None
+Address: [u'Richmond Dental Care', u'3044 Amboy Rd.', u'Staten Island, NY 10312']
+Url: https://www.groupon.com/deals/richmond-dental-arts
+1. Name: DazzlingWhiteSmileUSA
+Tel: 19733536203
+Address: [u'Newark Central Business District', u'One Gateway Center, Suite 2600', u'Suite 2600', u'Newark, NJ 07102']
+Url: https://www.groupon.com/deals/dazzlingwhitesmileusa-north-jersey
+1. Name: Strong Roots Dental
+Tel: 15512006002
+Address: [u'Historic Downtown', u'129 Newark Ave.', u'Jersey City, NJ 07302']
+Url: https://www.groupon.com/deals/strong-roots-dental-north-jersey
+1. Name: Dr. Sassan Rastegar, DDS PC
+Tel: 12126929090
+Address: [u'Midtown Center', u'340 Madison Ave, Ste 4B', u'New York, NY 10173']
+Url: https://www.groupon.com/deals/dr-sassan-rastegar-dds-pc
+1. Name: Maui Whitening - Westfield
+Tel: 19082334715
+Address: [u'Westfield', u'406 West Broad Street', u'Westfield, NJ 07090']
+Url: https://www.groupon.com/deals/maui-whitening-westfield-1
+1. Name: Hoffman & Karl Family Dental Center
+Tel: 17189487103
+Address: [u'Bay Terrace', u'3585 Hylan Blvd', u'Staten Island, NY 10308']
+Url: https://www.groupon.com/deals/hoffmankarldmd-com
+1. Name: Advanced Dentistry For U
+Tel: 17189461200
+Address: [u'Gravesend', u'2084 W 6th St.', u'2nd Floor', u'Brooklyn, NY 11223']
+Url: https://www.groupon.com/deals/advanced-dentistry-for-u-1
+1. Name: Ron Baer DMD PC
+Tel: None
+Address: [u'Baer Dental NYC', u'57 West 57th Street', u'Suite # 1002', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/ron-baer-dmd-pc
+1. Name: Cosmetic Dentistry of New York
+Tel: 12127214549
+Address: [u'New York', u'114 West 71st Street', u'New York, NY 10023']
+Url: https://www.groupon.com/deals/cosmetic-dentistry-of-new-york-2
+1. Name: Dr. Steven Ost
+Tel: 15166715641
+Address: [u'Glen Head', u'40 Railroad Avenue', u'Glen Head, NY 11545']
+Url: https://www.groupon.com/deals/dr-steven-ost
+1. Name: Astoria Dental Town
+Tel: 17182782141
+Address: [u'Astoria Dental Town', u'30-60 Steinway Street', u'Long Island City, NY 11103']
+Url: https://www.groupon.com/deals/astoria-dental-town-1
+1. Name: Mayer Dental Care
+Tel: 12122462398
+Address: [u'Clinton', u'240 Central Park S', u'Suite 2i', u'New York, NY 10019']
+Url: https://www.groupon.com/deals/dental-care-of-columbus-circle
+1. Name: Luke Klele, DMD
+Tel: 12013620175
+Address: [u'Wayne', u'1292 Hamburg Turnpike', u'Wayne, NJ 07470']
+Url: https://www.groupon.com/deals/luke-klele-dmd
+1. Name: Total Dentistry Care
+Tel: 17182612005
+Address: [u'Kew Gardens', u'8045 Kew Gardens Road', u'Kew Gardens, NY 11415']
+Url: https://www.groupon.com/deals/total-dentistry-care
+1. Name: Bright Smile Family Dental Care
+Tel: 12162154483
+Address: [u'New York', u'98-30 67th Avenue', u'New York, NY 11374']
+Url: https://www.groupon.com/deals/bright-smile-family-dental-care
+1. Name: Dr. Warren Richman
+Tel: 19737722822
+Address: [u'Middle Village', u'1081 Paulison Avenue', u'Clifton, NJ 07011']
+Url: https://www.groupon.com/deals/dr-warren-richman
+1. Name: Advanced Dental
+Tel: 19177927979
+Address: [u'Mott Haven', u'237 Willis Ave', u'Ofc A', u'Bronx, NY 10454']
+Url: https://www.groupon.com/deals/advanced-dental-7
+1. Name: Gregory S. Freed DDS LLC
+Tel: 12018644700
+Address: [u'Secaucus', u'38 Meadowlands Pkwy', u'Ste 200', u'Secaucus, NJ 07094']
+Url: https://www.groupon.com/deals/gregory-s-freed-dds-llc
+1. Name: West End Dental Associates
+Tel: 12125951100
+Address: [u'Upper West Side', u'243 West End Avenue', u'(between 72nd St & 71st St)', u'New York, NY 10023']
+Url: https://www.groupon.com/deals/west-end-dental-associates-1
+1. Name: Bradley Dental Group
+Tel: 12013856900
+Address: [u'Bergenfield', u'35 North Washington Avenue', u'Bergenfield, NJ 07621']
+Url: https://www.groupon.com/deals/bradley-dental-group-4
+1. Name: Brace Dental Services PC
+Tel: 17183288511
+Address: [u'Van Cortland Park West', u'3902 Sedgwick Ave 1 Fl', u'Bronx, NY 10463']
+Url: https://www.groupon.com/deals/brace-dental-services-pc
+1. Name: iSmile Family Dental Centers
+Tel: 17188847400
+Address: [u'Bronx', u'251 W Kingsbridge Rd.', u'Bronx, NY 10463']
+Url: https://www.groupon.com/deals/dr-elliot-sabbagh-dds
+1. Name: Queens Laser Hair Removal
+Tel: 17188354040
+Address: [u'Richmond Hill', u'103-47 Lefferts Blvd', u'2nd Floor', u'Richmond Hill, NY 11419']
+Url: https://www.groupon.com/deals/queens-laser-hair-removal-2
+1. Name: White Plains Dental
+Tel: 19149480088
+Address: [u'White Plains Dental PLLC', u'19 South Broadway', u'White Plains, NY 10601']
+Url: https://www.groupon.com/deals/white-plains-dental-pllc
+1. Name: Downtown Dental Studio
+Tel: 12129643337
+Address: [u'Financial District', u'160 Broadway, Suite 509', u'New York, NY 10038']
+Url: https://www.groupon.com/deals/downtown-dental-studio
+1. Name: North Island Dental Arts
+Tel: 15166164800
+Address: [u'North New Hyde Park', u'1613 Hillside Ave.', u'New Hyde Park, NY 11040']
+Url: https://www.groupon.com/deals/north-island-dental-arts-1
+1. Name: Brian Ketover, DDS
+Tel: 17187688400
+Address: [u'Park Slope', u'580 5th Avenue', u'Brooklyn, NY 11215']
+Url: https://www.groupon.com/deals/brian-ketover-dds
+1. Name: Astoria Dental Studio, P.C.
+Tel: 17185457046
+Address: [u'Astoria', u'3018 31st Ave', u'Astoria, NY 11106']
+Url: https://www.groupon.com/deals/astoria-dental-studio-p-c
+1. Name: Salazar Dental, Llc
+Tel: 12018611007
+Address: [u'West New York', u'6219 Bergenline Ave', u'Fl 2', u'West New York, NJ 07093']
+Url: https://www.groupon.com/deals/salazar-dental-llc
+1. Name: Cosmetic Dental Studios
+Tel: 12127596700
+Address: [u'Midtown', u'595 Madison Ave.', u'Floor 27', u'New York, NY 10022']
+Url: https://www.groupon.com/deals/cosmetic-dental-studios-victoria-veytsman-dds
+1. Name: Aesthetic Medical Network
+Tel: 16316835050
+Address: [u'Aesthetic Medical Network', u'150 Broadhollow Rd', u'Suite 104', u'Melville, NY 11747']
+Url: https://www.groupon.com/deals/aesthetic-medical-network-15
+1. Name: Envy Smile Dental Spa
+Tel: 17188910606
+Address: [u'Kings Highway', u'1738 East 13th Street', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/envy-smile-dental-spa-3-8
+1. Name: Tim Mozner Dds
+Tel: 19143909111
+Address: [u'White Plains', u'211 Central Ave', u'White Plains, NY 10606']
+Url: https://www.groupon.com/deals/tim-mozner-dds
+1. Name: Carle Place Dental, P.C.
+Tel: 15167478150
+Address: [u'Carle Place', u'407 East Jericho Turnpike', u'Carle Place, NY 11514']
+Url: https://www.groupon.com/deals/carle-place-dental-p-c
+1. Name: Adrijana Miksa D.m.d//advanced Dental Care Of Englewood
+Tel: 12012273368
+Address: [u'Englewood', u'177 N Dean St', u'Englewood, NJ 07631']
+Url: https://www.groupon.com/deals/adrijana-miksa-d-m-d-advanced-dental-care-of-englewood
+1. Name: Bronx Community Dental Care
+Tel: 17182941040
+Address: [u'Tremont', u'471 East Tremont Avenue', u'New York, NY 10457']
+Url: https://www.groupon.com/deals/bronx-community-dental-care
+1. Name: Kirti Tewari Dental, P.c.
+Tel: 13476256389
+Address: [u'Bronx', u'3754 White Plains Road', u'Bronx, NY 10467']
+Url: https://www.groupon.com/deals/kirti-tewari-dental-p-c
+1. Name: AP Dental Care
+Tel: 17182632040
+Address: [u'Forest Hills', u'6509 99th Street', u'Rego Park, NY 11374']
+Url: https://www.groupon.com/deals/ap-dental-care
+1. Name: Dr.arcady Sniper General Dentistry P.c.
+Tel: 17186480203
+Address: [u'Brooklyn', u'2316 Avenue U', u'Brooklyn, NY 11229']
+Url: https://www.groupon.com/deals/dr-arcady-sniper-general-dentistry-p-c
+1. Name: Steven B. Johnson DDS
+Tel: 12122231220
+Address: [u'Midtown Center', u'133 East 58th Street', u'Suite 1204', u'New York, NY 10022']
+Url: https://www.groupon.com/deals/steven-b-johnson-dds
+1. Name: C&K Dental Boutique
+Tel: 17183569700
+Address: [u"Prince's Bay", u'5434 Amboy Road', u'Staten Island, NY 10312']
+Url: https://www.groupon.com/deals/c-k-dental-boutique
+1. Name: Washington Pediatric Dentistry & Orthodontics
+Tel: 12013741686
+Address: [u'Upper Manhattan', u'197 S Washington Ave', u'Bergenfield, NJ 07621']
+Url: https://www.groupon.com/deals/washington-pediatric-dentistry-orthodontics
+1. Name: The Center for Cosmetic Dentistry
+Tel: 19147618229
+Address: [u'West Harrison', u'147 Underhill Ave.', u'West Harrison, NY 10604']
+Url: https://www.groupon.com/deals/the-center-for-cosmetic-dentistry-3
+1. Name: Dr Jeffrey Pomerantz
+Tel: 12126973999
+Address: [u'Midtown Center', u'521 5th Avenue', u'Rm 819', u'New York, NY 10175']
+Url: https://www.groupon.com/deals/dr-jeffrey-pomerantz
+1. Name: The Smilist
+Tel: None
+Address: [u'Flushing', u'133-56 Whitestone Expressway', u'Flushing, NY 11354']
+Url: https://www.groupon.com/deals/the-smilist
+1. Name: Smile Arts of NY
+Tel: 12125376923
+Address: [u'Midtown South Central', u'30 E 40th St.', u'Suite 105', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/smile-arts-of-ny-3
+1. Name: Prime Smiles Dental P.C.
+Tel: 17184609440
+Address: [u'Murray Hill', u'35-35 149th St', u'Flushing, NY 11354']
+Url: https://www.groupon.com/deals/prime-smiles-dental-p-c-1
+1. Name: Everest Dental PC
+Tel: 19146159686
+Address: [u'White Plains and Hartsdale', u'20 Old Mamaroneck Road, Suite 1D', u'White Plains, NY 10605']
+Url: https://www.groupon.com/deals/everest-dental-pc
+1. Name: Thank You Dental PLLC
+Tel: 17182258877
+Address: [u'Bayside', u'43-20 214th Place', u'Bayside, NY 11361']
+Url: https://www.groupon.com/deals/thank-you-dental-pllc
+1. Name: Advanced Implant & Cosmetic Dental P.C.
+Tel: 17187390900
+Address: [u'Jamaica', u'89-61 164th St', u'Jamaica, NY 11432']
+Url: https://www.groupon.com/deals/advanced-implant-cosmetic-dental-p-c-1
+1. Name: Georgetown Dental Spa
+Tel: 17186767700
+Address: [u'Brooklyn', u'2167A Ralph Ave', u'Brooklyn, NY 11234']
+Url: https://www.groupon.com/deals/georgetown-dental-spa
+1. Name: Joy Family Dental Care
+Tel: 12014704777
+Address: [u'Englewood Cliffs', u'700 East Palisade Avenue', u'Englewood Cliffs, NJ 07632']
+Url: https://www.groupon.com/deals/joy-family-dental-care
+1. Name: Charles Pollak, DDS
+Tel: 12126823861
+Address: [u'Charles Pollak, DDS', u'30 East 40th St', u'Penthouse', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/charles-pollak-dds
+1. Name: Branford Dental Center
+Tel: 19734240040
+Address: [u'Newark Central Business District', u'23 Branford Place', u'Newark, NJ 07102']
+Url: https://www.groupon.com/deals/branford-dental-center
+1. Name: Dr. David Maloff at Union Family Dental Care
+Tel: 19086867190
+Address: [u'Union', u'2170 Morris Avenue', u'Union, NJ 07083']
+Url: https://www.groupon.com/deals/dr-david-maloff-at-union-family-dental-care
+1. Name: Arch Dental Associates
+Tel: 15166831870
+Address: [u'East Garden City', u'901 Stewart Ave.', u'Suite 206', u'Garden City, NY 11530']
+Url: https://www.groupon.com/deals/arch-dental-associates
+1. Name: Align Dental
+Tel: 12013132277
+Address: [u'Ridgefield', u'321 Broad Ave', u'Ste 5', u'Ridgefield, NJ 07657']
+Url: https://www.groupon.com/deals/align-dental-care
+1. Name: Denta Dental
+Tel: 17188710868
+Address: [u'Kensington & Parkville', u'203 Ditmas Ave.', u'Brooklyn, NY 11218']
+Url: https://www.groupon.com/deals/denta-dental-1
+1. Name: Dental Implants NYC
+Tel: 16469186708
+Address: [u'Midtown South Central', u'274 Madison Avenue', u'Ste 202', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/sparkle-implants-technologies
+1. Name: NY Teeth Whitening Beauty Bar
+Tel: 18453818091
+Address: [u'Montgomery', u'940 NY-17k', u'Montgomery, NY 12549']
+Url: https://www.groupon.com/deals/ny-teeth-whitening-beauty-bar
+1. Name: Bergen Dental Professionals
+Tel: 12014884777
+Address: [u'Hackensack', u'379 Union St.', u'Hackensack, NJ 07601']
+Url: https://www.groupon.com/deals/bergen-dental-facial-professionals
+1. Name: Montgomery Greene Dental
+Tel: 12012040737
+Address: [u'The Waterfront', u'39 Montgomery St', u'Jersey City, NJ 07302']
+Url: https://www.groupon.com/deals/montgomery-greene-dental
+1. Name: New York Dental Office
+Tel: 12128386226
+Address: [u'Manhattan', u'245 East 63rd St', u'Suite 110', u'Manhattan, NY 10065']
+Url: https://www.groupon.com/deals/new-york-dental-office
+1. Name: NYC Dental Center
+Tel: 16468613070
+Address: [u'Murray Hill', u'216 E 39th St.', u'Suite 1', u'New York, NY 10016']
+Url: https://www.groupon.com/deals/nyc-dental-center-1
+1. Name: Dr. Gashinsky's Holistic Dental Center
+Tel: 19733799080
+Address: [u'Millburn', u'Millburn Avenue', u'Millburn, NJ 07041']
+Url: https://www.groupon.com/deals/dr-g-dental-holistic-dental-centre
+1. Name: Dr. Lawrence Weiss
+Tel: 13478425065
+Address: [u'Canarsie', u'1761 Rockaway Pkwy', u'Brooklyn, NY 11236']
+Url: https://www.groupon.com/deals/dr-lawrence-weiss
+1. Name: DK Dental Group
+Tel: 19739925724
+Address: [u'Livingston', u'349 E Northfield Rd', u'Ste 214', u'Livingston, NJ 07039']
+Url: https://www.groupon.com/deals/dk-dental-group
+1. Name: Bergen Premiere Dentistry
+Tel: 12017464614
+Address: [u'Bergen Premiere Dentistry', u'245 East Main Street', u'Ramsey, NJ 07446']
+Url: https://www.groupon.com/deals/bergen-primiere-dentistry
+1. Name: Rockefeller Center Cosmetic Dentistry
+Tel: 12125811090
+Address: [u'Rockefeller Center Cosmetic Dentistry', u'630 5th Avenue', u'Suite 1803', u'New York,, NY 10111']
+Url: https://www.groupon.com/deals/nova-dental-1
+1. Name: Dazzling Smiles of Manhattan
+Tel: 12127447747
+Address: [u'Upper East Side', u'200 E 72nd St', u'New York, NY 10021']
+Url: https://www.groupon.com/deals/dazzling-smiles-of-manhattan
+1. Name: GlamWhite
+Tel: None
+Address: [u'New York', u'415 Madison Ave', u'15th Floor', u'New York, NY 10017']
+Url: https://www.groupon.com/deals/glam-white-75
+1. Name: All-Star Family Dentistry
+Tel: 18455927170
+Address: [u'Hopewell Junction', u'2 Jay Lane', u'Hopewell Junction, NY 12533']
+Url: https://www.groupon.com/deals/all-star-family-dentistry
+1. Name: Meridian Dental NY
+Tel: 15166770007
+Address: [u'Syosset', u'87 Cold Spring Rd.', u'Syosset, NY 11791']
+Url: https://www.groupon.com/deals/meridian-dental-ny-2-6
+1. Name: Green Planet Salon & Spa
+Tel: 13475548108
+Address: [u'Brooklyn', u'2711 Coney Island Ave', u'Ste 1', u'Brooklyn, NY 11235']
+Url: https://www.groupon.com/deals/green-planet-salon-spa-2-6
+1. Name: Essex Dental Group
+Tel: 19734033455
+Address: [u'Montclair Heights', u'155 Roseland Avenue', u'Caldwell, NJ 07006']
+Url: https://www.groupon.com/deals/essex-dental-group
+1. Name: Smile Again Dental Spa
+Tel: 17189340070
+Address: [u'Southern Brooklyn', u'2667 Coney Island Avenue', u'Brooklyn, NY 11223']
+Url: https://www.groupon.com/deals/smile-again-dental-spa
+1. Name: Dr. Correa at Sunrise Dental Group
+Tel: 12019679680
+Address: [u'Paramus', u'372 Forest Ave.', u'Paramus, NJ 07652']
+Url: https://www.groupon.com/deals/djm-dental
+1. Name: Pro Smile Teeth Whitening
+Tel: 16468457403
+Address: [u'Downtown', u'100 Church Street', u'New York, NY 10007']
+Url: https://www.groupon.com/deals/pro-smile-teeth-whitening-6
+1. Name: Michael Felber D.D.S
+Tel: 12012622881
+Address: [u'389 Kinderkamack Road', u'383 Kinderkamack Road', u'Oradell, NJ 07649']
+Url: https://www.groupon.com/deals/michael-felber-d-d-s
+1. Name: Dr. Randy M. Gulkis
+Tel: 17189875000
+Address: [u'New Dorp', u'15 1st Street', u'1st', u'Staten Island, NY 10306']
+Url: https://www.groupon.com/deals/dr-randy-m-gulkis
+1. Name: Montclair Dental Spa
+Tel: 19737441527
+Address: [u'Montclair Dental Spa', u'204 Claremont Avenue', u'Montclair, NJ 07042']
+Url: https://www.groupon.com/deals/mont-clair-dental-spa
+1. Name: Dentalogica
+Tel: None
+Address: [u'New York', u'165 Broadway', u'New York, NY 10006']
+Url: https://www.groupon.com/deals/dentalogica-2
+1. Name: Arc Advanced Dentistry
+Tel: 15164315757
+Address: [u'Long Beach', u'465 E Park Ave.', u'Long Beach, NY 11561']
+Url: https://www.groupon.com/deals/arc-advanced-dentistry
